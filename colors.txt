@@ -3,3 +3,5 @@ orange
 yellow
 blue
 indigo
+violet 
+black
