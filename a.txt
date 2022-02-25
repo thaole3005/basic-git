@@ -1,4 +1,3 @@
 content A
 
-Edit by Master
-edit more by Beta
+bonus content in a.txt second by master
