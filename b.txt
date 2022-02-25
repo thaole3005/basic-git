@@ -1,1 +1,3 @@
 content B
+
+update file b.txt by Master

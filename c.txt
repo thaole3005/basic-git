@@ -1,1 +1,3 @@
 content C
+
+uodate c.txt by beta
