@@ -1,0 +1,3 @@
+content C
+
+change second c.txt by master

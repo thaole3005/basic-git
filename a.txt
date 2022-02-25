@@ -1,0 +1,3 @@
+content A
+
+bonus content in a.txt second by master
